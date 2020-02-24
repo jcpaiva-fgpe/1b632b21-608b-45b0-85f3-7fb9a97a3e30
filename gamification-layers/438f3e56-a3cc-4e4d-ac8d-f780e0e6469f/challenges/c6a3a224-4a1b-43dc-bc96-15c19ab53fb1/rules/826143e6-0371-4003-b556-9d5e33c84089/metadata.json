@@ -1,0 +1,1 @@
+{"id":"826143e6-0371-4003-b556-9d5e33c84089","name":"5yyy","criteria":{"conditions":[{"order":0,"left_entity":"FIXED","left_property":"5","comparing_function":"MATCHES","right_entity":"FIXED","right_property":"y"}],"junctors":["AND"]},"actions":[]}
